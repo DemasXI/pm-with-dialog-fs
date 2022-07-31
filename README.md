@@ -1,7 +1,6 @@
 # pm-with-dialog-fs
 
-Pm dengan Dialog 
-(https://imgur.io/evV7FXE)
+![Pm Dialog](https://imgur.io/evV7FXE)
 
 ```															/*********************************************************************************
 															*                     Private Message Message (with Dialogs)                     *
